@@ -33,4 +33,4 @@
 
 # new topic 12
 
-![alt text for image](_2.png)
+![alt text for image](_%202.png)
