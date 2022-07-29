@@ -1,9 +1,5 @@
 # Интсрукция
 
-## git add 
-
-# new topic 11
-# Интсрукция
 
 ## git add 
 
