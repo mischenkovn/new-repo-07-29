@@ -1,33 +1,5 @@
 # Интсрукция
-
-
-## git add 
-
-# new topic 11
-
-# Интсрукция
-
-## git add 
-
-# new topic 11
-
-# Интсрукция
-
-## git add 
-
-# new topic 11
-
-# Интсрукция
-
-## git add 
-
-# new topic 11
-
-# Интсрукция
-
-## git add 
-
-# new topic 12
+# new topic 1
 
 ![alt text for image](_%202.png)
 
